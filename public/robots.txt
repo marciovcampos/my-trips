@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://worldtrips.vercel.app
+
+# Sitemaps
+Sitemap: https://worldtrips.vercel.app/sitemap.xml
